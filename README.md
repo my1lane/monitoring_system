@@ -1,7 +1,7 @@
 ### monitoring_system
 Client-Server application for monitoring work activity
 
-#Explanation
+# Explanation
 Simple application to show current work activity of all employers in organisation
 
 Client (windows) - c/c++
